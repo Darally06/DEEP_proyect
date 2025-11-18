@@ -2,14 +2,13 @@ project:
   type: book
 
 book:
-  title: "book"
-  author: "Norah Jones"
+  title: "Modelos ResNET para determinar la progresión de la Dementia"
+  author: "Daniella Guerra & Tawny Torres"
   date: "17/11/2025"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - 1_ETL_IMAGES.ipynb
+    - 2_EDA.ipynb
 
 bibliography: references.bib
 
@@ -18,8 +17,8 @@ format:
     theme:
       - cosmo
       - brand
+    code-fold: true
   pdf:
     documentclass: scrreprt
-
-
+    code-blocks: false
 
