@@ -1,4 +1,4 @@
-¿name: Jupyter Book GitHub Pages Deploy
+name: Jupyter Book GitHub Pages Deploy
 
 on:
   push:
