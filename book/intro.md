@@ -1,4 +1,5 @@
-# MRI - Deep learning solutions fot dementia Disease prediction
+# MRI - Deep learning solutions for dementia Disease 
+
 
 De acuerdo con la organización mundial de la salud la dementia es un término que engloba varias enfermedades que afectan la memoria, el pensamiento y la capacidad para realizar actividades cotidianas. Esta enfermedad empeora con el tiempo, relacionada a condiciones que destruyen las células nerviosas y dañan el cerebro, lo que conduce a al deterioro de funciones cognitivas. La detección de esta destrucción resulta relevante para la salud de los pacientes e influye en las mejoras a su calidad de vida. 
 
